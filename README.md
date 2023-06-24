@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lushan Godwin</h1>
 <h3 align="center">Frontend Developer</h3>
-
+<img src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.digitalsilk.com%2Fdigital-trends%2Fwebsite-development-process%2F&psig=AOvVaw14mXW2DLpq094jHM8qU7zK&ust=1687681281217000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLjko_C82_8CFQAAAAAdAAAAABAE" >
 - 🔭 I’m currently working on [My Portfoliyo](https://github.com/LushanGodwin/my_portfoliyo.git)
 
 <h3 align="left">Connect with me:</h3>
